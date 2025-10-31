@@ -3,7 +3,7 @@
 <head>
 	<link rel="stylesheet" href"88x31/buttons.css">
 </head>
-<div class="container88x31">
+<div align=center" class="container88x31">
 <a href="https://caitlyn.moe/">
 			<img
 				src="88x31/buttons/caitlyn88x31.png"

@@ -4,7 +4,6 @@
 	padding: 0.5rem;
 	overflow: hidden;
 	image-rendering: pixelated;
-	color: black, 0.1;
 }
 
 .container88x31 img {
@@ -12,4 +11,8 @@
 	box-shadow:
 		inset 0px 0px 0px 1px light-dark(#3c3c3c1f, #ffffff1f),
 		2px 2px 5px light-dark(#0000000f, #0000005b);;
+}
+
+.container88x31 a {
+	color: black, 0.1;
 }

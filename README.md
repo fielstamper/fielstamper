@@ -3,7 +3,8 @@
 I'm a 19 year old girl from Australia who is interested in a variety of tech-related & gaming stuff, check out <a href="https://caitlyn.moe">my site</a> for more.
 
 ## Stuff I Use 
-
+<div align="center">
+	
 <kbd><img src="https://go-skill-icons.vercel.app/api/icons?i=linux,fedora,obsidian,html,css,astro,vscode,ae,pr"></img></kbd>
 
 ## My Friends
@@ -27,3 +28,4 @@ I'm a 19 year old girl from Australia who is interested in a variety of tech-rel
 	<a href="https://uncutified.moe" rel="nofollow"><img src="https://uncutified.moe/88x31.gif"/></a>
 	<a href="https://zt64.dev/" rel="nofollow"><img src="https://zt64.dev/88x31.png"/></a>
 </kbd>
+</div>

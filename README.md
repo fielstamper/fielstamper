@@ -2,7 +2,7 @@
 
 ## Stuff I Use 
 
-![](https://skillicons.dev/icons?i=liux,fedora,html,css,astro,ae,pr)
+![](https://go-skill-icons.vercel.app/api/icons?i=linux,fedora,html,css,astro,ae,pr)
 
 <kbd align="center">
 	<a href="https://caitlyn.moe/"><img src="88x31/buttons/caitlyn88x31.png" /></a>

@@ -16,6 +16,7 @@ I'm a 19 year old girl from Australia who is interested in a variety of tech-rel
 	<a href="https://github.com/puhboo"><img src="88x31/buttons/puhbu88x31.gif"/></a>
 	<a href="https://wearr.dev/"><img src="88x31/buttons/wear88x31.gif"/></a>
 	<a href="https://worf.win/"><img src="88x31/buttons/worf88x31.gif"/></a>
+	<br>
 	<a href="https://amy.rip/"><img src="88x31/buttons/amy88x31.png"/></a>
 	<a href="https://lumina0machina.github.io/"><img src="88x31/buttons/lumina88x31.png"/></a>
 	<a href="https://lewisakura.moe/"><img src="88x31/buttons/lewisakura88x31.png"/></a>

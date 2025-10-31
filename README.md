@@ -22,6 +22,15 @@
 				title="sammy"
 			/>
 		</a>
+	<a href="https://vendicated.dev/">
+			<img
+				src="88x31/buttons/ven88x31.gif"
+				alt="vee"
+				width="88"
+				height="31"
+				title="vee"
+			/>
+		</a>
 		<a href="https://codeberg.org/paige">
 			<img
 				src="88x31/buttons/paige88x31.gif"

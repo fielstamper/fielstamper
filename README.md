@@ -4,7 +4,7 @@ I'm a 19 year old girl from Australia who is interested in a variety of tech-rel
 
 ## Stuff I Use 
 
-![](https://go-skill-icons.vercel.app/api/icons?i=linux,fedora,obsidian,html,css,astro,ae,pr)
+![](https://go-skill-icons.vercel.app/api/icons?i=linux,fedora,obsidian,html,css,astro,vscode,ae,pr)
 
 ## My Friends
 

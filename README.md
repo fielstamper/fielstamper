@@ -6,9 +6,10 @@ I'm a 19 year old girl from Australia who is interested in a variety of tech-rel
 <div align="center">
 	
 <kbd><img src="https://go-skill-icons.vercel.app/api/icons?i=linux,fedora,obsidian,html,css,astro,vscode,ae,pr"></img></kbd>
+</div>
 
 ## My Friends
-
+<div align="center">
 <kbd align="center">
 	<a href="https://caitlyn.moe/"><img src="88x31/buttons/caitlyn88x31.png" /></a>
 	<a href="https://khcrysalis.dev/"><img src="88x31/buttons/samara88x31.png"/></a>

@@ -25,4 +25,5 @@ I'm a 19 year old girl from Australia who is interested in a variety of tech-rel
 	<a href="https://github.com/rniii"><img src="88x31/buttons/rini88x31.png"/></a>
 	<a href="https://nin0.dev" rel="nofollow"><img src="https://files.nin0.dev/88x31.png"/></a>
 	<a href="https://uncutified.moe" rel="nofollow"><img src="https://uncutified.moe/88x31.gif"/></a>
+	<a href="https://zt64.dev/" rel="nofollow"><img src="https://zt64.dev/88x31.png"/></a>
 </kbd>

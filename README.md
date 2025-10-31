@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## Stuff I Use 
+
+![](https://skillicons.dev/icons?i=liux,fedora,html,css,astro,ae,pr)
+
 <kbd align="center">
 	<a href="https://caitlyn.moe/"><img src="88x31/buttons/caitlyn88x31.png" /></a>
 	<a href="https://khcrysalis.dev/"><img src="88x31/buttons/samara88x31.png"/></a>

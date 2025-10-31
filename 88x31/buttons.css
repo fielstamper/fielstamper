@@ -4,6 +4,9 @@
 	padding: 0.5rem;
 	overflow: hidden;
 	image-rendering: pixelated;
+	background-color: #5783a7;
+	border: 1px solid #80a7c7;
+	border-radius: 8px;
 }
 
 .container88x31 img {

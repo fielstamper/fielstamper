@@ -15,7 +15,7 @@
 		</a>
 	<a href="https://khcrysalis.dev/">
 			<img
-				src="88x31/buttons/samara.png"
+				src="88x31/buttons/samara88x31.png"
 				alt="sammy"
 				width="88"
 				height="31"

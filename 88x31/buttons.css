@@ -3,6 +3,6 @@
     flex-wrap: wrap;
 	padding: 0.5rem;
 	overflow: hidden;
-	justify-content: center;
+	align-items: center;
 	image-rendering: pixelated;
 }

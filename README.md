@@ -4,6 +4,8 @@
 
 ![](https://go-skill-icons.vercel.app/api/icons?i=linux,fedora,html,css,astro,ae,pr)
 
+## My Friends
+
 <kbd align="center">
 	<a href="https://caitlyn.moe/"><img src="88x31/buttons/caitlyn88x31.png" /></a>
 	<a href="https://khcrysalis.dev/"><img src="88x31/buttons/samara88x31.png"/></a>

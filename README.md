@@ -3,7 +3,7 @@
 <head>
 	<link rel="stylesheet" href"88x31/buttons.css">
 </head>
-<div align="center" style="text-decoration: none;" class="container88x31">
+<div align="center" style="background-color: #5783a7; border: 1px solid #80a7c7; border-radius: 8px;" class="container88x31">
 <a href="https://caitlyn.moe/">
 			<img
 				src="88x31/buttons/caitlyn88x31.png"
